@@ -34,7 +34,7 @@ The content is organized into weekly modules to ensure a focused progression:
 
 ---
 
-## 💻 Daily Progress - Day [Current Day Number]
+## 💻 Daily Progress - Day [01]
 
 This section tracks the specific tasks completed each day.
 
