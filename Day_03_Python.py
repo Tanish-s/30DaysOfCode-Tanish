@@ -19,7 +19,7 @@ def main():
     }
     
     print ("\n Employee_Ids:", Employee_Ids)
-    print ( "Name:", Name)
+    
     print(Employee_Ids.get("Ta")) # Accessing value using key
 
 if __name__ == "__main__":
